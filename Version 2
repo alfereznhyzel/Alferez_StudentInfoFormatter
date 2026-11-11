@@ -1,0 +1,15 @@
+# version 2
+
+first_name = input("Enter First Name: ").strip().title()
+last_name = input("Enter Last Name: ").strip().title()
+section = input("Enter Section: ").strip().upper()
+subject = input("Enter Favorite Subject: ").strip().title()
+
+full_name = f"{first_name.capitalize()} {last_name.capitalize()}"
+
+print("Name    :", full_name)
+print("Section :", section)
+print("Subject :", subject)
+
+count = len(first_name) + len(last_name)
+print("Character count:", count)
