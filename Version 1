@@ -10,3 +10,5 @@ full_name = first_name + " " + last_name
 print("Name    :", full_name)
 print("Section :", section)
 print("Subject :", subject)
+
+onlineGDB code : https://onlinegdb.com/4eLa_z_V9T
