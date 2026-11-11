@@ -13,3 +13,5 @@ print("Subject :", subject)
 
 count = len(first_name) + len(last_name)
 print("Character count:", count)
+
+onlineGDB code : https://onlinegdb.com/bmzYFkTUM9
