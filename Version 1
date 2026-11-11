@@ -1,0 +1,12 @@
+# version 1
+
+first_name = input("Enter First Name: ")
+last_name = input("Enter Last Name: ")
+section = input("Enter Section: ")
+subject = input("Enter Favorite Subject: ")
+
+full_name = first_name + " " + last_name
+
+print("Name    :", full_name)
+print("Section :", section)
+print("Subject :", subject)
